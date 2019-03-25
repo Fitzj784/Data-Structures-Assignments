@@ -1,0 +1,8 @@
+AddFriendship Sharron Chad
+RemoveFriendship Sharron Alice
+AddFriendship Sharron Kelcey
+AddFriendship Chad Bob
+AddFriendship Bob Alice
+AddFriendship Jerald Alice
+RemoveFriendship Kelcey Alice
+WantToBefriend Sharron Alice

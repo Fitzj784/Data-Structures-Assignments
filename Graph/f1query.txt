@@ -1,0 +1,4 @@
+AddFriendship Chad Eric
+RemoveFriendship Chad Abbie
+WantToBefriend Chad Abbie
+WantToBefriend Chad Eric
