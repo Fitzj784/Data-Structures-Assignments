@@ -1,0 +1,13 @@
+UpdateMinimumAcceptablePrice 0600 50.00
+EnterBid 0601 Bob 30.25 2
+RemoveBid 0605 Bob
+EnterBid 0610 Carol 25.00 1
+EnterBid 0612 Alice 20.50 5
+EnterBid 0614 John 30.00 2
+DisplayHighestBid 0615
+ChangeBid 0620 Alice 40.00 1
+EnterBid 0605 Chad 28.00 1
+EnterBid 0624 Sharron 35.00 3
+UpdateMinimumAcceptablePrice 0625 30.00
+SellOneItem 0630
+DisplayHighestBid 0635

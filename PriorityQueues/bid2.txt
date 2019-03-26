@@ -1,0 +1,25 @@
+UpdateMinimumAcceptablePrice 1000 30.00
+EnterBid 1001 Sharron 15.00 1
+EnterBid 1005 Kelcey 20.00 2
+EnterBid 1006 Chad 11.25 3
+EnterBid 1007 Hal 10.50 1
+UpdateMinimumAcceptablePrice 1010 10.50
+EnterBid 1014 Abbie 15.00 3
+EnterBid 1015 Jerald 14.00 2
+RemoveBid 1020 Hal
+EnterBid 1030 Eric 17.00 4
+DisplayHighestBid 1045
+ChangeBid 1048 Kelcey 10.00 2
+EnterBid 1055 Bob 17.00 5
+EnterBid 1102 Carol 20.00 1
+EnterBid 1109 Alice 10.00 2
+EnterBid 1115 David 9.00 3
+DisplayHighestBid 1116
+SellOneItem 1117
+ChangeBid 1118 Bob 25.00 2
+EnterBid 1120 Emily 13.50 1
+EnterBid 1122 John 18.00 4
+RemoveBid 1140 John
+EnterBid 1142 Leo 17.00 3
+EnterBid 1143 Alex 19.00 2
+SellOneItem 1150
